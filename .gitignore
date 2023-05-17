@@ -1,0 +1,6 @@
+# ignode node modules
+node_modules
+# ignore bower components
+bower_components
+# ignore dist folder
+dist
